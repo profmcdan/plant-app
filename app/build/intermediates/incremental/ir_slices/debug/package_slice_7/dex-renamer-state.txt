@@ -1,0 +1,4 @@
+#Tue Sep 04 14:59:05 WAT 2018
+base.0=/Users/danielale/Desktop/tflite/app/build/intermediates/transforms/dexMerger/debug/8
+path.0=classes.dex
+renamed.0=classes.dex
